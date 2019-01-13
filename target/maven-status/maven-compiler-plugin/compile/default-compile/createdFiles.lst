@@ -1,0 +1,9 @@
+com\models\transport\Transport.class
+com\models\airplane\Airplane.class
+com\models\car\Car.class
+com\models\ship\Ship.class
+com\mycontext\MyContext$1.class
+com\mycontext\MyContext.class
+com\myAnnotation\MyService.class
+com\myspring\MySpring.class
+com\test\MainTest.class
